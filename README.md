@@ -24,7 +24,7 @@
 
 ```Java
 
-        public class Taximeter {
+public class Taximeter {
 
         public static void main(String[] args) {
 
