@@ -24,7 +24,5 @@ public class Taximeter {
 
         System.out.println("Total Amount :" + total);
 
-
     }
-
 }
