@@ -24,31 +24,31 @@
 
 ```Java
 
-public class Taximeter {
+        public class Taximeter {
 
-        public static void main(String[] args) {
+                public static void main(String[] args) {
 
-        int km;
+                int km;
 
-        double perKm = 2.20, total, startPrice = 10;
+                double perKm = 2.20, total, startPrice = 10;
 
 ```
 
 ```Java
 
-        Scanner input = new Scanner(System.in);
+                Scanner input = new Scanner(System.in);
 
-        System.out.print("Enter Distance in KM : ");
+                System.out.print("Enter Distance in KM : ");
 
-        km = input.nextInt();
+                km = input.nextInt();
 
-        total = (km * perKm);
+                total = (km * perKm);
 
-        total += startPrice;
+                total += startPrice;
 
-        total = (total < 20) ? 20 : total;
+                total = (total < 20) ? 20 : total;
 
-        System.out.println("Total Amount :" + total);
+                System.out.println("Total Amount :" + total);
 
 
 ```
