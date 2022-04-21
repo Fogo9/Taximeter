@@ -52,7 +52,6 @@
 
                 System.out.println("Total Amount :" + total);
 
-
 ```
 
 ```bash
