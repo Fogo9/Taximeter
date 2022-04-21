@@ -23,6 +23,5 @@ public class Taximeter {
         total = (total < 20) ? 20 : total;
 
         System.out.println("Total Amount :" + total);
-
     }
 }
