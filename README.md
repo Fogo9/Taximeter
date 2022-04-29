@@ -1,14 +1,14 @@
 # **TAXIMETER**
 
-# Information
+## INFORMATION
 
 * **It prints the taximeter amount on the screen according to the distance traveled (KM).**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variable **km** is defined with int.
 
@@ -69,13 +69,13 @@
 ```
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/Taximeter.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
